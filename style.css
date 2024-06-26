@@ -33,6 +33,7 @@ body{
 }
 
 .conteudo-senha{
+    margin-top: 80px;
     background-color: var(--fundo-senha);
     padding: 24px;
     border-bottom: 6px solid var(--borda);
@@ -43,4 +44,15 @@ body{
     border: none;
     color: var(--branco);
     font-family: var(--poppins);
+    font-size: 40px;
+
+}
+
+#campo-senha:focus{
+    outline: none;
+}
+
+.conteudo{
+    max-width: 1200px;
+    margin: 0 auto;
 }
