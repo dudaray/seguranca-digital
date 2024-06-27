@@ -61,6 +61,7 @@ body{
     background-color: var(--texto-fundo);
     border: 2px solid var(--borda);
     margin-top: 32px;
+    padding: 24px;
 }
 
 .parametro-título{
