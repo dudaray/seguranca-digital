@@ -56,3 +56,14 @@ body{
     max-width: 1200px;
     margin: 0 auto;
 }
+
+.parametro{
+    background-color: var(--texto-fundo);
+    border: 2px solid var(--borda);
+    margin-top: 32px;
+}
+
+.parametro-título{
+    font-family: var(--poppins);
+    font-size: 28px;
+}
